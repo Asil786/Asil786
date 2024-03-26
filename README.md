@@ -81,7 +81,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Asil786/Asil786/output/snake.svg" alt="Snake animation" />
-
 ###
