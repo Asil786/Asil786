@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ MERN Stack Developer at Hasbasoft<br>📚 Training and Placement Coordinator at M. H. Saboo Siddik College of Engineering.<br>🎯 Lifelong learner with a passion for coding.<br>🎲  Freelancer specializing in web application development.</p>
+<p align="left">✨ Full Stack Developer. <br>📚 Training and Placement Coordinator at M. H. Saboo Siddik College of Engineering.<br>🎯 Lifelong learner with a passion for coding.<br>🎲  Freelancer specializing in web application development.</p>
 
 ###
 
