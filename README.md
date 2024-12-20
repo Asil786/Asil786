@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 I'm a MERN Stack Developer at Hasbasoft and a Freelancer. I design efficient web applications using MongoDB, Express.js, React.js, and Node.js. I am currently studying in M. H. Saboo Siddik college of engineering.</p>
+<p align="left">👋 I'm a Full Stack Developer and a Freelancer. I design efficient web applications using MongoDB, Express.js, React.js, and Node.js. I am currently studying in M. H. Saboo Siddik college of engineering.</p>
 
 ###
 
