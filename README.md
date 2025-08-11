@@ -1,3 +1,8 @@
+<div align="center">
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MOHD-ASIL&fontSize=80&animation=fadeIn&fontAlignY=35)
+
+</div>
 <h1 align="left">Hii! 👋</h1>
 
 ###
